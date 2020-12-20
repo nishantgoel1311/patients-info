@@ -3,7 +3,7 @@
 
 ## Introduction
 
-I had build this application using React, Node.js, Express & MongoDB i.e. Full Stack MERN Application. 
+I have built this application using React, Node.js, Express & MongoDB i.e. Full Stack MERN Application. 
 
 
 Setup:
