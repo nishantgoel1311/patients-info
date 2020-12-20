@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. 
+I had build this application using React, Node.js, Express & MongoDB i.e. Full Stack MERN Application. 
 
 
 Setup:
